@@ -1,0 +1,1 @@
+java -jar proxy-server-1.0-SNAPSHOT.jar

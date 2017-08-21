@@ -12,6 +12,8 @@
         <module>initiator-server</module>
         <module>echo-server</module>
         <module>proxy-server</module>
+        <module>server</module>
+        <module>client</module>
     </modules>
 
 
