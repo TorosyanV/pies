@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="client" />
+        <module name="echo-server" />
         <module name="initiator-server" />
+        <module name="proxy-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="client" target="1.5" />
+      <module name="echo-server" target="1.5" />
       <module name="initiator-server" target="1.5" />
-      <module name="initiatorserver" target="1.5" />
-      <module name="pios" target="1.5" />
-      <module name="server" target="1.5" />
+      <module name="pies" target="1.5" />
+      <module name="proxy-server" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
