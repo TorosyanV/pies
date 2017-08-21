@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/initiator-server/initiator-server.iml" filepath="$PROJECT_DIR$/initiator-server/initiator-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pios.iml" filepath="$PROJECT_DIR$/pios.iml" />
+    </modules>
+  </component>
+</project>
